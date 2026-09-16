@@ -1,2 +1,1 @@
-# issues-zola-public
-issues-zola-public
+# issues-zola.shenjuexiao.com
