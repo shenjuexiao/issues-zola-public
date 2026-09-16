@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://YOUR_URL.TLD/</loc>
+        <loc>https://issues-zola.shenjuexiao.com/</loc>
     </url>
     <url>
-        <loc>https://YOUR_URL.TLD/blog/</loc>
+        <loc>https://issues-zola.shenjuexiao.com/blog/</loc>
     </url>
     <url>
-        <loc>https://YOUR_URL.TLD/blog/hello/</loc>
+        <loc>https://issues-zola.shenjuexiao.com/blog/hello/</loc>
         <lastmod>2093-02-16</lastmod>
     </url>
     <url>
-        <loc>https://YOUR_URL.TLD/blog/issue-1/</loc>
+        <loc>https://issues-zola.shenjuexiao.com/blog/issue-1/</loc>
         <lastmod>2026-09-16T14:57:52Z</lastmod>
     </url>
     <url>
-        <loc>https://YOUR_URL.TLD/blog/issue-2/</loc>
+        <loc>https://issues-zola.shenjuexiao.com/blog/issue-2/</loc>
         <lastmod>2026-09-16T15:16:11Z</lastmod>
     </url>
     <url>
-        <loc>https://YOUR_URL.TLD/blog/issue-3/</loc>
+        <loc>https://issues-zola.shenjuexiao.com/blog/issue-3/</loc>
         <lastmod>2026-09-16T15:16:28Z</lastmod>
     </url>
     <url>
-        <loc>https://YOUR_URL.TLD/pages/archive/</loc>
+        <loc>https://issues-zola.shenjuexiao.com/pages/archive/</loc>
     </url>
     <url>
-        <loc>https://YOUR_URL.TLD/pages/projects/</loc>
+        <loc>https://issues-zola.shenjuexiao.com/pages/projects/</loc>
     </url>
     <url>
-        <loc>https://YOUR_URL.TLD/pages/projects/cool-project/</loc>
+        <loc>https://issues-zola.shenjuexiao.com/pages/projects/cool-project/</loc>
     </url>
     <url>
-        <loc>https://YOUR_URL.TLD/tags/</loc>
+        <loc>https://issues-zola.shenjuexiao.com/tags/</loc>
     </url>
     <url>
-        <loc>https://YOUR_URL.TLD/tags/demo/</loc>
+        <loc>https://issues-zola.shenjuexiao.com/tags/demo/</loc>
     </url>
     <url>
-        <loc>https://YOUR_URL.TLD/tags/meta/</loc>
+        <loc>https://issues-zola.shenjuexiao.com/tags/meta/</loc>
     </url>
     <url>
-        <loc>https://YOUR_URL.TLD/tags/zola/</loc>
+        <loc>https://issues-zola.shenjuexiao.com/tags/zola/</loc>
     </url>
 </urlset>
